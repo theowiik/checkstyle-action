@@ -10,7 +10,7 @@ jobs:
     - name: Run check style
       uses: nikitasavinov/checkstyle-action@master
       with:
+        reporter:     'github-pr-review'
+        tool_name:    'checkstyle_id_2'
+        filter_mode:  nofilter
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        reporter: 'github-pr-check'
-        tool_name: 'checkstyle_id_2'
-        filter_mode: nofilter
