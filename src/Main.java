@@ -14,52 +14,10 @@ public class Main {
   }
 
   /**
-   * This is ("invalid") java doc.
+   * This is java doc.
    *
    * @param test some text.
    */
   private void pleaseDontBoomCrash(int test) {
-  }
-
-  /**
-   * Java doooooooooooc.
-   * @return illegal
-   */
-  private void wasd() {
-    System.out.println("wasd");
-  }
-
-  /**
-   * no comment
-   * @return illegal
-   */
-  private void wxasd() {
-    System.out.println("wasd");
-  }
-
-  
-  /**
-   * no comment
-   * @return illegal
-   */
-  private void wxasddd() {
-    System.out.println("wasd");
-  }
-
-
-  /**
-   * no commentdsdasoiasdjoidasjosda
-   * @return illegal
-   */
-  private void wxasdsiajkasdoijsdoijasdoijddd() {
-    System.out.println("wasd");
-  }
-
-    /**
-   * no commentdsdasoiasdjoidasjosda
-   * @return illegal
-   */
-  private void wxabbbsdsiajkasdoijsdoijasdoijddd() {
-    System.out.println("wasd");
   }
 }
