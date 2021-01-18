@@ -1,5 +1,5 @@
 /**
- * Java Doc
+ * Java Doc.
  */
 public class Main {
 
@@ -15,13 +15,15 @@ public class Main {
 
   /**
    * This is ("invalid") java doc.
-   * @param test
+   *
+   * @param test some text.
    */
-  private void iDontBoomCrash(int test) {
+  private void pleaseDontBoomCrash(int test) {
   }
 
   /**
    * Java doooooooooooc.
+   * @return illegal
    */
   private void wasd() {
     System.out.println("wasd");
