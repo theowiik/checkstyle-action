@@ -23,6 +23,7 @@ public class Main {
 
   /**
    * Java doooooooooooc.
+   * @return illegal
    */
   private void wasd() {
     System.out.println("wasd");
