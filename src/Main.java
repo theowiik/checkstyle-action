@@ -36,4 +36,13 @@ public class Main {
   private void wxasd() {
     System.out.println("wasd");
   }
+
+  
+  /**
+   * no comment
+   * @return illegal
+   */
+  private void wxasddd() {
+    System.out.println("wasd");
+  }
 }
