@@ -54,4 +54,12 @@ public class Main {
   private void wxasdsiajkasdoijsdoijasdoijddd() {
     System.out.println("wasd");
   }
+
+    /**
+   * no commentdsdasoiasdjoidasjosda
+   * @return illegal
+   */
+  private void wxabbbsdsiajkasdoijsdoijasdoijddd() {
+    System.out.println("wasd");
+  }
 }
