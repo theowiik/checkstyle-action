@@ -13,6 +13,7 @@ public class Main {
    * Entry point.
    *
    * @param args the args.
+   * @return remove me!!!
    */
   public static void main(String[] args) {
     System.out.println("Hello world!");
