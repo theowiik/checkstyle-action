@@ -1,4 +1,4 @@
-name: god
+name: checkstyle
 
 on: pull_request
 
@@ -14,5 +14,6 @@ jobs:
       with:
         level: error
         reporter: 'github-pr-review'
-        github_token: ${{ secrets.GITHUB_TOKEN }}
         tool_name: 'checkstyle_id_2'
+        filter_mode: nofilter
+        github_token: ${{ secrets.GITHUB_TOKEN }}
