@@ -28,6 +28,8 @@ public class Main {
   private void pleaseDontBoomCrash(int test) {
   }
 
+  private void iAmIllegal(){}
+
   /**
    * Java doooooooooooc.
    */
