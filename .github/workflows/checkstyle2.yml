@@ -3,7 +3,7 @@ on: pull_request
 jobs:
   checkstyle_job:
     runs-on: ubuntu-latest
-    name: checkstyle_774
+    name: checkstyle_id_1
     steps:
     - name: Checkout
       uses: actions/checkout@v2
@@ -12,5 +12,5 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         reporter: 'github-pr-check'
-        tool_name: 'testtool'
+        tool_name: 'checkstyle_id_2'
         filter_mode: nofilter
