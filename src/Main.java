@@ -14,7 +14,7 @@ public class Main {
   }
 
   /**
-   * This is some java doc.
+   * This is ("invalid") java doc.
    * @param test
    */
   private void iDontBoomCrash(int test) {
