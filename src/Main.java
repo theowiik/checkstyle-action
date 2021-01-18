@@ -14,18 +14,10 @@ public class Main {
   }
 
   /**
-   * This is ("invalid") java doc.
+   * This is java doc.
    *
    * @param test some text.
    */
   private void pleaseDontBoomCrash(int test) {
-  }
-
-  /**
-   * Java doooooooooooc.
-   * @return illegal
-   */
-  private void wasd() {
-    System.out.println("wasd");
   }
 }
