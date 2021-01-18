@@ -5,7 +5,7 @@
 
 
 /**
- * Java Doc
+ * Java Doc.
  */
 public class Main {
 
