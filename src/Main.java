@@ -28,4 +28,12 @@ public class Main {
   private void wasd() {
     System.out.println("wasd");
   }
+
+  /**
+   * no comment
+   * @return illegal
+   */
+  private void wxasd() {
+    System.out.println("wasd");
+  }
 }
