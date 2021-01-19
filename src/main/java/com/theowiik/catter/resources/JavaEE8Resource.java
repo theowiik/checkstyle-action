@@ -5,8 +5,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.core.Response;
 
 /**
- *
- * @author 
+ * This is a resource file.
  */
 @Path("javaee8")
 public class JavaEE8Resource {
