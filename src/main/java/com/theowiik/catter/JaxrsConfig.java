@@ -9,6 +9,6 @@ import javax.ws.rs.core.Application;
  * @author Juneau
  */
 @ApplicationPath("resources")
-public class JaxrsConfiguration extends Application {
+public class JaxrsConfig extends Application {
 
 }
